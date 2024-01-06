@@ -56,7 +56,9 @@ const Footer = () => {
         <p className="regular-14 w-full text-center text-gray-30">
           2023 HILINK | All rights reserved
         </p>
-        <p>Done by Krishna Bharadwaj</p>
+        <p className="text-center regular-14 text-slate-400">
+          Done by Krishna Bharadwaj
+        </p>
       </div>
     </footer>
   );
