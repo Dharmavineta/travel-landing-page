@@ -9,6 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "TravelGo",
   description: "Landing travel page",
+  icons: [{ url: "/travellogo.png", href: "/travellogo.png" }],
 };
 
 export default function RootLayout({
